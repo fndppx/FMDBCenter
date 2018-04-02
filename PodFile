@@ -1,0 +1,12 @@
+
+platform :ios, '8.0'
+inhibit_all_warnings!
+
+target 'FMDBCenter' do
+  
+    pod 'FMDB', '~> 2.5'
+
+
+end
+
+
